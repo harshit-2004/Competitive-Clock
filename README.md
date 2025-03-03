@@ -4,31 +4,31 @@ Welcome to Competitive Clock - Your go-to platform for staying updated on Codefo
 
 ## Dashboard
 
-![Dashboard](<img width="1440" alt="Screenshot 2025-03-03 at 10 38 26 PM" src="https://github.com/user-attachments/assets/43c6dc86-f48e-4261-a8ff-8307eec7db31" />)
+![Dashboard](https://github.com/user-attachments/assets/f302695d-c476-40e6-a057-1ad6f9bf5f1f)
 
 Stay informed about the upcoming contests within the next 24 hours.
 
 ## Profile
 
-![Profile](https://github.com/harshit-2004/CodeforcesEmail/assets/96365691/75558d01-2177-4ea0-aec5-bc398a973f5e")
+![Profile](https://github.com/user-attachments/assets/2ee05750-4c31-4a0e-971b-26a30ecc1496)
 
 Update your profile with ease by managing credentials like password and username.
 
 ## Setting
 
-![Setting](https://github.com/harshit-2004/Contest-Update/assets/96365691/da5bc0b6-c42b-43df-95a2-71cf893f9c67.png)
+![Setting](https://github.com/user-attachments/assets/c3f4edc6-1247-438a-b5e1-2875950ce09a)
 
 Customize your experience by setting up email notifications, choosing between options relative to the contest or a fixed time on the day before.
 
 ## Login
 
-![Login](https://github.com/harshit-2004/Contest-Update/assets/96365691/b42c647a-74cf-4ed6-bf66-5114746ad654.png)
+![Login](https://github.com/user-attachments/assets/0ba8dec1-f82e-4f28-a69f-6e39533810c0)
 
 Effortlessly log in using your Google, GitHub, or personal credentials.
 
 ## Sign Up
 
-![Sign Up](https://github.com/harshit-2004/Contest-Update/assets/96365691/b8970e1c-8115-4264-893c-76640498d933.png)
+![Sign Up](https://github.com/user-attachments/assets/6d4ef2dd-6aa7-4aaa-a6de-97f6e9addd99)
 
 Join the Competitive Clock community by signing up with Google, GitHub, or creating an account with your chosen username and password.
 
