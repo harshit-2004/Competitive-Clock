@@ -1,16 +1,16 @@
-CodeforcesEmail repository:
+Competitive Clock repository:
 ```markdown
-# Contributing to CodeforcesEmail
+# Contributing to Competitive Clock
 
-Thank you for considering contributing to CodeforcesEmail! This guide outlines the process for making contributions to the project.
+Thank you for considering contributing to Competitive Clock! This guide outlines the process for making contributions to the project.
 
 ## Getting Started
 
-1. Fork the CodeforcesEmail repository by clicking on the "Fork" button on the top right of the repository page.
+1. Fork the Competitive Clock repository by clicking on the "Fork" button on the top right of the repository page.
 
 2. Clone your forked repository to your local machine:
    ```bash
-   git clone https://github.com/harshit-2004/CodeforcesEmail
+   git clone https://github.com/harshit-2004/Competitive-Clock
    ```
 
 3. Create a new branch for your contribution:
@@ -30,7 +30,7 @@ Thank you for considering contributing to CodeforcesEmail! This guide outlines t
    ```
 
 6. Open a pull request:
-   - Navigate to the [CodeforcesEmail repository](https://github.com/harshit-2004/CodeforcesEmail).
+   - Navigate to the [Competitive Clock repository](https://github.com/harshit-2004/Competitive-Clock).
    - Switch to the branch you created in your forked repository.
    - Click on the "New Pull Request" button.
    - Provide a clear title and description for your pull request.
@@ -45,9 +45,9 @@ Please follow the existing code style and conventions used in the project. Consi
 
 ## Issue Tracker
 
-If you are looking for ways to contribute, check the [issue tracker](https://github.com/harshit-2004/CodeforcesEmail/issues) for open issues. Feel free to pick up any issue that interests you or open a new one if you find a bug or have an enhancement in mind.
+If you are looking for ways to contribute, check the [issue tracker](https://github.com/harshit-2004/Competitive-Clock/issues) for open issues. Feel free to pick up any issue that interests you or open a new one if you find a bug or have an enhancement in mind.
 
-Thank you for contributing to CodeforcesEmail!
+Thank you for contributing to Competitive Clock!
 ```
 
 Feel free to customize the content to better suit the specific guidelines and processes of your project.

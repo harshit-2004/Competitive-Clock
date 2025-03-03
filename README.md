@@ -1,6 +1,6 @@
-# CodeforcesEmail
+# Competitive Clock
 
-Welcome to CodeforcesEmail - Your go-to platform for staying updated on Codeforces, Codechef, Hackerrank, Hackerearth, Leetcode contests!
+Welcome to Competitive Clock - Your go-to platform for staying updated on Codeforces, Codechef, Hackerrank, Hackerearth, Leetcode contests!
 
 ## Dashboard
 
@@ -30,8 +30,8 @@ Effortlessly log in using your Google, GitHub, or personal credentials.
 
 ![Sign Up](https://github.com/harshit-2004/Contest-Update/assets/96365691/b8970e1c-8115-4264-893c-76640498d933.png)
 
-Join the CodeforcesEmail community by signing up with Google, GitHub, or creating an account with your chosen username and password.
+Join the Competitive Clock community by signing up with Google, GitHub, or creating an account with your chosen username and password.
 
 ## How to Contribute
 
-We welcome contributions! If you want to contribute to CodeforcesEmail, please follow the [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions! If you want to contribute to Competitive Clock, please follow the [contribution guidelines](CONTRIBUTING.md).
