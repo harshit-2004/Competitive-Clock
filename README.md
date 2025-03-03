@@ -4,7 +4,7 @@ Welcome to Competitive Clock - Your go-to platform for staying updated on Codefo
 
 ## Dashboard
 
-![Dashboard](https://github.com/harshit-2004/Contest-Update/assets/96365691/30ebb1e5-75e6-4349-a1da-834ad7f5753c.png)
+![Dashboard](<img width="1440" alt="Screenshot 2025-03-03 at 10 38 26 PM" src="https://github.com/user-attachments/assets/43c6dc86-f48e-4261-a8ff-8307eec7db31" />)
 
 Stay informed about the upcoming contests within the next 24 hours.
 
